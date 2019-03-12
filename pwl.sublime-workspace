@@ -1,0 +1,632 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"com",
+				"comment"
+			],
+			[
+				"mysq",
+				"mysql_error"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"txt",
+				"txtMessage"
+			],
+			[
+				"we",
+				"Website"
+			],
+			[
+				"tx",
+				"txtEmail"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"is",
+				"isi"
+			],
+			[
+				"isi",
+				"isi_artikel"
+			],
+			[
+				"id",
+				"id_post"
+			],
+			[
+				"row",
+				"row"
+			],
+			[
+				"te",
+				"textline2"
+			],
+			[
+				"n",
+				"next"
+			],
+			[
+				"Pre",
+				"previous"
+			],
+			[
+				"pre",
+				"previous"
+			],
+			[
+				"pa",
+				"pagenum"
+			],
+			[
+				"l",
+				"last"
+			],
+			[
+				"page",
+				"pagenum"
+			],
+			[
+				"quer",
+				"query"
+			],
+			[
+				"mysql_fe",
+				"mysql_fetch_row"
+			],
+			[
+				"men",
+				"menuLinkid"
+			],
+			[
+				"i",
+				"if	if …"
+			],
+			[
+				"pos",
+				"posting"
+			],
+			[
+				"f",
+				"form"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"rad",
+				"radius"
+			],
+			[
+				"def",
+				"define"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "tampilKomentar.php",
+			"settings":
+			{
+				"buffer_size": 1494,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "login/komentar.php",
+			"settings":
+			{
+				"buffer_size": 7534,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "login/index.php",
+			"settings":
+			{
+				"buffer_size": 5329,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "login/hapusKomentar.php",
+			"settings":
+			{
+				"buffer_size": 881,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "login/hapusReply.php",
+			"settings":
+			{
+				"buffer_size": 918,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "login/balasKomentar.php",
+			"settings":
+			{
+				"buffer_size": 1789,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/Final_PWL/assets/css/style.css",
+		"/C/xampp/htdocs/Final_PWL/single_page.php",
+		"/C/xampp/htdocs/adimin/tambah_biodata.php",
+		"/C/xampp/htdocs/Final_PWL/login/home.php",
+		"/C/xampp/htdocs/Final_PWL/login/kategori.php",
+		"/C/xampp/htdocs/Final_PWL/login/hapusKomentar.php",
+		"/C/xampp/htdocs/Final_PWL/login/hapusKategori.php",
+		"/C/xampp/htdocs/Final_PWL/login/balasKomentar.php",
+		"/C/xampp/htdocs/Final_PWL/login/tambahKategori.php",
+		"/C/xampp/htdocs/Final_PWL/login/editKategori.php",
+		"/C/xampp/htdocs/Final_PWL/login/tambahPosting.php",
+		"/C/xampp/htdocs/Final_PWL/login/editPosting.php",
+		"/C/xampp/htdocs/Final_PWL/contact.php",
+		"/C/xampp/htdocs/Final_PWL/login/posting.php",
+		"/C/xampp/htdocs/Final_PWL/login/index.php",
+		"/C/xampp/htdocs/Final_PWL/pagination.php",
+		"/C/xampp/htdocs/Final_PWL/kategori.php",
+		"/C/xampp/htdocs/Final_PWL/main.php",
+		"/C/xampp/htdocs/Final_PWL/Submitkomen.php",
+		"/C/xampp/htdocs/Final_PWL/login/pesan.php",
+		"/C/xampp/htdocs/Final_PWL/login/komentar.php",
+		"/C/xampp/htdocs/Final_PWL/main - Copy.php",
+		"/C/xampp/htdocs/adimin/index.php",
+		"/C/Users/Mas Ruhan/Downloads/Compressed/ThemeBlog-master/single_blog_page.html",
+		"/C/xampp/htdocs/Final_PWL/index.php",
+		"/C/Users/Mas Ruhan/AppData/Local/Temp/Rar$DIa0.470/style.css",
+		"/C/xampp/htdocs/Final_PWL/login/nav.php",
+		"/C/Users/Mas Ruhan/Videos/index.html",
+		"/C/Users/Mas Ruhan/Downloads/Compressed/ThemeBlog-master/contact.php",
+		"/C/Users/Mas Ruhan/Downloads/Compressed/ThemeBlog-master/index.html",
+		"/C/xampp/htdocs/Final_PWL/pagination - Default.php",
+		"/C/xampp/htdocs/Final_PWL/login/login.php",
+		"/C/xampp/htdocs/Final_PWL/login/loginProses.php",
+		"/C/Users/Mas Ruhan/AppData/Local/Temp/Rar$DIa0.927/beritatampil.php",
+		"/C/xampp/htdocs/Final_PWL/login/hapusPosting.php",
+		"/C/xampp/htdocs/startbootstrap-sb-admin-1.0.4/index.html",
+		"/C/Users/Mas Ruhan/AppData/Local/Temp/fz3temp-1/wp-config.php",
+		"/C/Users/Mas Ruhan/Downloads/Video/Arrow.S04E02.The.Candidate.720p.WEB-DL.2CH.x265.HEVC-PSA.mkv",
+		"/C/Users/Mas Ruhan/AppData/Local/Temp/Rar$DIa0.342/Submitkomen.php",
+		"/C/Users/Mas Ruhan/Videos/komentar/komen.php",
+		"/C/Users/Mas Ruhan/AppData/Local/Temp/Rar$DIa0.030/Submitkomen.php",
+		"/C/Users/Mas Ruhan/Videos/komentar/Submitkomen.php",
+		"/C/Users/Mas Ruhan/Videos/komentar/Publishkomen.php",
+		"/C/Users/Mas Ruhan/Videos/sekolah/index.php",
+		"/C/xampp/htdocs/Final_PWL/login/session.php",
+		"/C/Users/Mas Ruhan/Videos/komentar/Publishkomen.css",
+		"/C/xampp/htdocs/Final_PWL/single.php",
+		"/C/Users/Mas Ruhan/Videos/sekolah/main.php",
+		"/C/Users/Mas Ruhan/Videos/sekolah/beritatampil.php",
+		"/C/Users/Mas Ruhan/AppData/Local/Temp/Rar$DIa0.726/index.php",
+		"/C/xampp/htdocs/truemag/index.php",
+		"/C/xampp/htdocs/truemag/single.php",
+		"/C/xampp/htdocs/responsive/index.php",
+		"/C/xampp/htdocs/responsive/admin_theme/edit_berita.php",
+		"/C/xampp/htdocs/responsive/admin_theme/tampil_berita.php",
+		"/C/Users/Mas Ruhan/Downloads/Documents/PWL/responsive/index.php",
+		"/C/Users/Mas Ruhan/Downloads/Documents/PWL/responsive/admin_theme/edit_berita.php",
+		"/C/xampp/htdocs/responsive/admin_theme/edit_biodata.php",
+		"/C/xampp/htdocs/responsive/database/db.sql",
+		"/C/xampp/htdocs/startbootstrap-sb-admin-1.0.4/forms.html",
+		"/C/xampp/htdocs/startbootstrap-sb-admin-1.0.4/blank-page.html",
+		"/C/xampp/htdocs/responsive/admin_theme/detail_kategori.php",
+		"/C/xampp/htdocs/responsive/admin_theme/tambah_berita.php",
+		"/C/xampp/htdocs/startbootstrap-sb-admin-1.0.4/bootstrap-elements.html",
+		"/C/xampp/htdocs/Final_PWL/login/editProfil.php",
+		"/C/xampp/htdocs/Final_PWL/login/ubahPassword.php",
+		"/C/Users/Mas Ruhan/Downloads/active-class-navigation-menu/index.html",
+		"/C/Users/Mas Ruhan/Downloads/active-class-navigation-menu/active.js",
+		"/C/xampp/htdocs/Final_PWL/login/editProfil",
+		"/C/xampp/htdocs/Halaman_admin/login/ubahSukses.php",
+		"/C/Users/Mas Ruhan/Downloads/Documents/PWL/responsive/admin_theme/tambah_berita.php",
+		"/C/xampp/htdocs/Halaman_admin/login/ubahPassword.php",
+		"/C/xampp/htdocs/Halaman_admin/login/ubahPasswordProses.php",
+		"/C/xampp/htdocs/Halaman_admin/login/tambahPost.php",
+		"/C/xampp/htdocs/Halaman_admin/login/home.php",
+		"/C/xampp/htdocs/Halaman_admin/login/index.php",
+		"/C/xampp/htdocs/Halaman_admin/login/session.php",
+		"/C/xampp/htdocs/Halaman_admin/login/kategori.php",
+		"/C/xampp/htdocs/responsive/config/koneksi.php",
+		"/C/xampp/htdocs/Halaman_admin/login/tambahKategori.php",
+		"/C/xampp/htdocs/Halaman_admin/login/posting.php",
+		"/C/xampp/htdocs/Halaman_admin/login/editKategori.php",
+		"/C/xampp/htdocs/Halaman_admin/login/pesan.php",
+		"/C/xampp/htdocs/komentar/komen.php",
+		"/C/xampp/htdocs/Halaman_admin/login/komentar.php",
+		"/C/Users/Mas Ruhan/Downloads/database.sql",
+		"/C/Users/Mas Ruhan/Downloads/pwl.sql",
+		"/C/Users/Mas Ruhan/Downloads/comment (1).sql",
+		"/C/Users/Mas Ruhan/Downloads/tblartikel (1).sql",
+		"/C/Users/Mas Ruhan/AppData/Local/Temp/Rar$DIa0.118/db_contact.sql",
+		"/C/Users/Mas Ruhan/Downloads/comment.sql",
+		"/C/Users/Mas Ruhan/AppData/Local/Temp/Rar$DIa0.991/db_contact.sql",
+		"/C/xampp/htdocs/komentar/Publishkomen.php",
+		"/C/xampp/htdocs/komentar/pwl.sql",
+		"/C/xampp/htdocs/komentar/Submitkomen.php",
+		"/C/xampp/htdocs/adimin/submit.php",
+		"/C/xampp/htdocs/adimin/tambah_td.php",
+		"/C/Users/Mas Ruhan/AppData/Local/Temp/Rar$DIa0.515/Submitkomen.php",
+		"/C/xampp/htdocs/Halaman_admin/login/hapusKategori.php",
+		"/C/Users/Mas Ruhan/AppData/Local/Temp/Rar$DIa0.672/index.php",
+		"/C/xampp/htdocs/Halaman_admin/login/hapus.php",
+		"/C/xampp/htdocs/Halaman_admin/login/tambahPost",
+		"/C/xampp/htdocs/Komentar/Submitkomen.php",
+		"/C/xampp/htdocs/Halaman_admin/login/login.php",
+		"/C/xampp/htdocs/adimin/form_artikel.php",
+		"/C/xampp/htdocs/Komentar/komen.php",
+		"/C/xampp/htdocs/Komentar/Submitcomment.php",
+		"/C/xampp/htdocs/adimin/home.php",
+		"/C/xampp/htdocs/Halaman_admin/dashboard/config/koneksi.php",
+		"/C/xampp/htdocs/admin/edit_biodata.php",
+		"/C/xampp/htdocs/admin/detail_biodata.php",
+		"/C/xampp/htdocs/Halaman_admin/login/logout.php",
+		"/C/xampp/htdocs/Komentar/Publishcomment.php",
+		"/C/Users/Mas Ruhan/Downloads/tblartikel.sql",
+		"/C/xampp/htdocs/adimin/creat data base.sql",
+		"/C/xampp/htdocs/admin/tampil_biodata.php",
+		"/C/xampp/htdocs/admin/hapus_biodata.php",
+		"/C/xampp/htdocs/admin/index.php",
+		"/C/xampp/htdocs/admin/tambah_biodata.php",
+		"/C/xampp/htdocs/admin/tambah_td.html",
+		"/C/Users/Mas Ruhan/AppData/Local/Temp/Rar$DIa0.708/creat data base.sql",
+		"/C/xampp/htdocs/Halaman_admin/blank-page.html",
+		"/C/Users/Mas Ruhan/Downloads/Compressed/clean/single.html",
+		"/C/xampp/htdocs/FpPWL/login/index.php",
+		"/C/xampp/htdocs/FpPWL/login/profile.php",
+		"/C/Users/Mas Ruhan/Downloads/Documents/PWL/20151210_PanduanModulHalamanAdmin/PanduanModulHalamanAdmin/CRUD4/koneksi.php",
+		"/C/xampp/htdocs/FpPWL/login/login.php",
+		"/C/xampp/htdocs/FpPWL/blank-page.html"
+	],
+	"find":
+	{
+		"height": 45.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"textarea",
+			"comm",
+			"recent",
+			"order",
+			"post kom",
+			"select",
+			"pesan",
+			"komentar",
+			"comment",
+			"posting",
+			"foot",
+			"buat",
+			"disable",
+			"\">\n",
+			"?page=kategor",
+			"?pn?page=kategor",
+			"?pn?page=kategori&id_Ka",
+			"?pn?page=kategori&id_Kat",
+			"?pn",
+			"placeholder",
+			"widge",
+			"search",
+			"limit",
+			"post",
+			"txtID",
+			"kategori",
+			"button",
+			"log",
+			"logo",
+			"logout",
+			"oldpassword",
+			"bootstrap-3.3.4-dist",
+			">\n",
+			"Username or Password is invalid",
+			"image",
+			"wp_get_attachment_image",
+			"image",
+			"conten",
+			"conte",
+			"ima",
+			"image",
+			"post",
+			"entry",
+			"sam",
+			"sampl",
+			"sample"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "tampilKomentar.php",
+					"settings":
+					{
+						"buffer_size": 1494,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1303,
+								1303
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 231.0,
+						"translation.y": 324.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "login/komentar.php",
+					"settings":
+					{
+						"buffer_size": 7534,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7447,
+								7447
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 212.0,
+						"translation.y": 4102.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "login/index.php",
+					"settings":
+					{
+						"buffer_size": 5329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1215.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "login/hapusKomentar.php",
+					"settings":
+					{
+						"buffer_size": 881,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								881,
+								881
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 567.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "login/hapusReply.php",
+					"settings":
+					{
+						"buffer_size": 918,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								803,
+								797
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "login/balasKomentar.php",
+					"settings":
+					{
+						"buffer_size": 1789,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								895,
+								834
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 81.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true
+}
